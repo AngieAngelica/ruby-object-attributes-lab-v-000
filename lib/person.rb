@@ -16,12 +16,12 @@ class Person
   end
 end
 
+
+ beyonce = Person.new
+        beyonce.job = "Singer"
+
 beyonce = Person.new
 beyonce.job = "Singer"
-
-
-
-
 
 
 
