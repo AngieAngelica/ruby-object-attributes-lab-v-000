@@ -1,9 +1,14 @@
 
 
+
+
+
 fido = Dog.new
 fido.name = "Fido"
 
-
+snoopy = Dog.new
+snoopy.breed = "Beagle"
+        
 =begin
 
 class Dog
