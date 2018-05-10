@@ -4,7 +4,7 @@ def name=(persons_name)
 end
 
 def job (persons_job)
-  @job=dogs_breed
+  @job=persons_job
 end
 
 end
