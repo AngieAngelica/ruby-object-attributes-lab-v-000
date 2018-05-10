@@ -17,7 +17,7 @@ class Person
 end
 
 
- beyonce = Person.new
+beyonce = Person.new
 beyonce.job = "Singer"
 
 beyonce = Person.new
